@@ -1,0 +1,2 @@
+# Emulgatore
+Embadded LLM
